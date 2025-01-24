@@ -9,13 +9,13 @@ export const colors = {
     400: "#9aa0a6",
   },
   violet: {
-    main: "#6b56c1",
-    dark: "#432d8b",
-    light: "#8e76d6",
+    300: "#6b56c1",
+    200: "#432d8b",
+    100: "#8e76d6",
   },
   purple: {
-    main: "#9c27b0",
-    dark: "#7b1fa2",
-    light: "#c236de",
+    300: "#9c27b0",
+    200: "#7b1fa2",
+    100: "#c236de",
   }
 }
