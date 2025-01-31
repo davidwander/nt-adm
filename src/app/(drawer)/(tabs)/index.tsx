@@ -23,7 +23,7 @@ export default function Home() {
         contentContainerClassName="gap-6"
         ListHeaderComponent={() => (
           <Text className="uppercase text-gray-500 text-sm font-subtitle mt-6">
-            mensagens
+            Agendamentos
           </Text>
         )}
       />
