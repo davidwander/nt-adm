@@ -1,6 +1,6 @@
 import { colors } from "@/styles/colors";
 import { Tabs } from "expo-router";
-import { House, MessageCircleMore, Presentation, SwatchBook } from "lucide-react-native";
+import { House, MessageCircleMore, SwatchBook } from "lucide-react-native";
 
 export default function TabLayout() {
   return (
