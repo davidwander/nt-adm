@@ -47,5 +47,5 @@ Este projeto está licenciado sob a [MIT License](LICENSE).
 
 ---
 
-Feito com ❤️ por [Seu Nome].
+Feito com ❤️ por [David Wander].
 
