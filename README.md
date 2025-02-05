@@ -8,6 +8,7 @@ Este é um aplicativo desenvolvido em **React Native** com **Expo Router**, **Ty
 - **Expo Router** - Gerenciamento de rotas no aplicativo.
 - **TypeScript** - Tipagem estática para um código mais seguro.
 - **Tailwind CSS** - Estilização rápida e responsiva.
+- **APIs** - Integração com serviços externos para ampliar funcionalidades.
 
 ## Funcionalidades
 - **Gerenciamento de Agendamentos:**
@@ -19,6 +20,11 @@ Este é um aplicativo desenvolvido em **React Native** com **Expo Router**, **Ty
   - Registro de valores recebidos.
   - Controle de despesas e ganhos.
   - Exibição de relatórios financeiros.
+
+- **Integração com APIs:**
+  - Comunicação com servidores externos para armazenar e recuperar dados.
+  - Sincronização automática de informações entre dispositivos.
+  - Autenticação e segurança na gestão de usuários.
 
 ## Contribuição
 1. Fork este repositório.
@@ -41,5 +47,5 @@ Este projeto está licenciado sob a [MIT License](LICENSE).
 
 ---
 
-Feito com ❤️ por [David Wander].
+Feito com ❤️ por [Seu Nome].
 
